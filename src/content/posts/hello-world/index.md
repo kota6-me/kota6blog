@@ -60,7 +60,7 @@ draft: false
 
 ![Chuzenjiko lake](IMG_2126_Original.jpg)
 
-![This isn't default wallpaper of macOS](IMG_2172_Original.jpg)
+![This isn't a default wallpaper of macOS](IMG_2172_Original.jpg)
 
 ![National Stadium - Japan](IMG_2720_Original.jpg)
 
