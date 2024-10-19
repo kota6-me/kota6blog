@@ -32,7 +32,7 @@ draft: false
 ### Contacts
 
 #### Mail
-- contact@kota6.me
+- [contact\[@\]kota6.me](mailto:contact@kota6.me)
 
 #### SNS
 - Discord
