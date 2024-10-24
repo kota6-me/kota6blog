@@ -1,7 +1,9 @@
 # About
 This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
-::github{repo="saicaca/fuwari"}
+::github{repo="kota6-me/kakeibo-front"}
+
+::github{user="kota6-me"}
 
 > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)
